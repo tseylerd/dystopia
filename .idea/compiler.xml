@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="driver" />
         <module name="model" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="driver" target="1.5" />
       <module name="model" target="1.5" />
     </bytecodeTargetLevel>
   </component>
