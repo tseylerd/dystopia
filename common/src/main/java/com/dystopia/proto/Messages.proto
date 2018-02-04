@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+package com.dystopia.message;
+
+message Task {
+    TaskType type = 1;
+
+    enum TaskType {
+        PUSH = 0;
+        PULL = 1;
+    }
+}
