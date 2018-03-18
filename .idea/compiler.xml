@@ -15,7 +15,7 @@
     <bytecodeTargetLevel target="1.8">
       <module name="client" target="1.5" />
       <module name="common" target="1.5" />
-      <module name="driver" target="1.8" />
+      <module name="driver" target="1.5" />
       <module name="model" target="1.5" />
     </bytecodeTargetLevel>
   </component>
