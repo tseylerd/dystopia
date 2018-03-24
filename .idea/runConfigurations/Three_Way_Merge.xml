@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="ThreeWayMerge" type="JetRunConfigurationType" factoryName="Kotlin">
+  <configuration default="false" name="Three Way Merge" type="JetRunConfigurationType" factoryName="Kotlin">
     <module name="driver" />
     <option name="VM_PARAMETERS" value="" />
     <option name="PROGRAM_PARAMETERS" value="driver/target/base.sketch driver/target/current.sketch driver/target/remote.sketch" />
