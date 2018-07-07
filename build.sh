@@ -1,0 +1,1 @@
+cd driver && gradle clean jar && cd ..

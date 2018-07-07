@@ -6,17 +6,31 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="client" />
-        <module name="common" />
-        <module name="driver" />
-        <module name="model" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="client" target="1.5" />
+      <module name="client.main" target="1.8" />
+      <module name="client.test" target="1.8" />
+      <module name="client_main" target="1.8" />
+      <module name="client_test" target="1.8" />
       <module name="common" target="1.5" />
-      <module name="driver" target="1.5" />
+      <module name="driver" target="1.8" />
+      <module name="driver.main" target="1.8" />
+      <module name="driver.model.main" target="1.8" />
+      <module name="driver.model.test" target="1.8" />
+      <module name="driver.test" target="1.8" />
+      <module name="driver_main" target="1.8" />
+      <module name="driver_test" target="1.8" />
+      <module name="dystopia-driver_main" target="1.8" />
+      <module name="dystopia-driver_test" target="1.8" />
+      <module name="dystopia-model.model.main" target="1.8" />
+      <module name="dystopia-model.model.test" target="1.8" />
       <module name="model" target="1.5" />
+      <module name="model.main" target="1.8" />
+      <module name="model.test" target="1.8" />
+      <module name="model_main" target="1.8" />
+      <module name="model_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
