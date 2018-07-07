@@ -1,1 +1,1 @@
-cd driver && gradle clean jar && cd ..
+cd driver && gradle clean model:jar jar && cd ..
