@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/client.iml" filepath="$PROJECT_DIR$/.idea/modules/client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/driver.iml" filepath="$PROJECT_DIR$/.idea/modules/driver.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/driver.main.iml" filepath="$PROJECT_DIR$/.idea/modules/driver.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/265992012/driver.model.iml" filepath="$PROJECT_DIR$/.idea/modules/265992012/driver.model.iml" />
@@ -11,8 +10,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/265992012/driver.model.test.iml" filepath="$PROJECT_DIR$/.idea/modules/265992012/driver.model.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/driver.test.iml" filepath="$PROJECT_DIR$/.idea/modules/driver.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/model.iml" filepath="$PROJECT_DIR$/.idea/modules/model.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/model.main.iml" filepath="$PROJECT_DIR$/.idea/modules/model.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/model.test.iml" filepath="$PROJECT_DIR$/.idea/modules/model.test.iml" />
     </modules>
   </component>
 </project>
